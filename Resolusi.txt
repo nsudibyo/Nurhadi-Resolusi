@@ -1,3 +1,4 @@
 Resolusi
 - Konsisten membuat Apps Sederhana
 - Menonton WPU hingga tuntas
+- Memahami React
